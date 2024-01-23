@@ -1,0 +1,20 @@
+repo_name: brianlane01/teamGit2
+report_id: 4f066fdc40cf16a98aba9d7c4d9ec3a6
+version: 0.1
+repo_type: Public
+timestamp: '2024-01-23T17:19:37+00:00'
+requested_by: brianlane01
+provider: github
+branch: main
+detected_tools_count: 1
+tools:
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/brianlane01/teamGit2
+  detection_source: Repo Metadata
